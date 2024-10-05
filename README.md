@@ -74,20 +74,24 @@ Passionate Senior Backend Engineer with a knack for AI, blockchain, and full-sta
 
 ## 📝 Latest Blog Posts
 
-<div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
-  <div style="width: 45%; min-width: 300px; background-color: #2A2D32; border-radius: 10px; padding: 20px; margin: 10px; box-shadow: 5px 5px 10px #1E2024, -5px -5px 10px #363A41;">
-    <a href="https://medium.com/@bithal06/from-good-to-great-master-these-6-best-practices-for-software-development-success-5bc0ba67f1c5" target="_blank">
-      <img src="https://siddharthasatyakama.com/assets/images/blog/top-6-best-practices.jpg" alt="Blog Post 1" style="width: 100%; border-radius: 5px;">
-      <h3 style="color: #FFFFFF; margin-top: 10px;">From Good to Great: Master These 6 Best Practices for Software Development Success</h3>
-    </a>
-  </div>
-  <div style="width: 45%; min-width: 300px; background-color: #2A2D32; border-radius: 10px; padding: 20px; margin: 10px; box-shadow: 5px 5px 10px #1E2024, -5px -5px 10px #363A41;">
-    <a href="https://medium.com/@bithal06/how-i-built-a-node-app-to-transfer-custom-tokens-on-solana-blockchain-eba9642e2047" target="_blank">
-      <img src="https://siddharthasatyakama.com/assets/images/blog/transfer-solana-nodejs.jpg" alt="Blog Post 2" style="width: 100%; border-radius: 5px;">
-      <h3 style="color: #FFFFFF; margin-top: 10px;">How I Built a Node App to Transfer Custom Tokens on Solana Blockchain</h3>
-    </a>
-  </div>
-</div>
+<table>
+  <tr>
+    <td width="25%" align="center">
+      <a href="https://medium.com/@bithal06/from-good-to-great-master-these-6-best-practices-for-software-development-success-5bc0ba67f1c5" target="_blank">
+        <img src="https://siddharthasatyakama.com/assets/images/blog/top-6-best-practices.jpg" alt="Blog Post 1" width="100%">
+        <br>
+        <sub><b>From Good to Great: 6 Best Practices for Software Development</b></sub>
+      </a>
+    </td>
+    <td width="25%" align="center">
+      <a href="https://medium.com/@bithal06/how-i-built-a-node-app-to-transfer-custom-tokens-on-solana-blockchain-eba9642e2047" target="_blank">
+        <img src="https://siddharthasatyakama.com/assets/images/blog/transfer-solana-nodejs.jpg" alt="Blog Post 2" width="100%">
+        <br>
+        <sub><b>Building a Node App for Solana Token Transfers</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
